@@ -180090,6 +180090,7 @@ var words = [
 'Shemu',
 'Shen',
 'shenanigan',
+'shenanigans',
 'shend',
 'sheng',
 'Shenshai',
